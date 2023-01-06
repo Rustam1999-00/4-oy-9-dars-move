@@ -1,0 +1,31 @@
+.Nextbt{
+    position: fixed;
+    bottom: 50px;
+    left: 45%;
+}
+.link{
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    padding: 8px 15px;
+    background-color: rgb(30, 16, 132);
+    border-radius: 50%;
+    color: white;
+}
+.darkbtn{
+    position: fixed;
+    right: 30px;
+    top: 30px;
+    padding: 15px 15px;
+  
+    border-radius: 50%;
+}
+body {
+    background: url('./img/2021Computers_Beautiful_screensaver_windows_11_153899_33.jpg');
+    /* background-repeat: no-repeat; */
+    background-size: 100%;
+}
+.dark{
+    background: url('./img/51023c3482b8305a.jpg');
+    background-size: 100%;
+}
